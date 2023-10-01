@@ -22,12 +22,12 @@ print(resta, " ", mult, " ", div)
 
 #EJERCICIO 5
 print("\nEJERCICIO 5")
-nombre = "Isabella"
+nombre = "Bianca"
 print(nombre)
 
 #EJERCICIO 6
 print("\nEJERCICIO 6")
-precio = 10.50
+precio = 25.50
 print("$", precio)
 
 #EJERCICIO 7
@@ -58,14 +58,14 @@ print("Precio original: ", precio, "\nPrecio casteado: ", precio2)
 
 #EJERCICIO 12
 print("\nEJERCICIO 12")
-nombre = "Isabella"
-apellido = "Romo"
+nombre = "Bianca"
+apellido = "Perrotta"
 nombre_completo = nombre + " " + apellido
 print(nombre_completo)
 
 #EJERCICIO 13
 print("\nEJERCICIO 13")
-edad = 18
+edad = 21
 print(edad)
 edad += 5
 print(edad)
@@ -74,7 +74,7 @@ print(edad)
 
 #EJERCICIO 14
 print("\nEJERCICIO 14")
-altura = 1.70
+altura = 1.65
 print(altura)
 altura *= 4
 print(altura)
@@ -83,7 +83,7 @@ print(altura)
 
 #EJERCICIO 15
 print("\nEJERCICIO 15")
-nombreMay = "ISABELLA"
+nombreMay = "BIANCA"
 print(nombreMay.lower())
 
 #EJERCICIO 16
