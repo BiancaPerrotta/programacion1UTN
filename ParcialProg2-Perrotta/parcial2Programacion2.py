@@ -1,4 +1,3 @@
-import pytest
 import funciones2
 
 #parcial 2 programacion
