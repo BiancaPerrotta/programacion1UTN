@@ -1,4 +1,4 @@
-"""print("Ejercicio 1:")
+print("Ejercicio 1:")
 class Person:
     def __init__(self,name=None,age=None,dni=None):
         self.name = name
@@ -50,9 +50,9 @@ person = Person()
 person.set_name(input("Ingrese su nombre:"))
 person.set_age(int(input("Ingrese su edad:")))
 person.set_dni(int(input("Ingrese su DNI:")))
-person.is_grater()"""
+person.is_grater()
 
-"""print("Ejercicio 2:")
+print("Ejercicio 2:")
 class Account:
     def __init__(self,headline=None,quantity=0.0):
         self.headline = headline
@@ -92,7 +92,7 @@ account = Account("Bianca Perrotta",250.000)
 account.show_account()
 account.income(10.000)
 account.retreat(50.000)
-account.show_account()"""
+account.show_account()
 
 print("Ejercicio 3:")
 class Triangle:
